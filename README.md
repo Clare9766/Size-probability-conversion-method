@@ -1,6 +1,7 @@
-# Size-probability-conversion-method
+# Size-probability-conversion-method (Microplastic Mass Conversion from Size Distributions)
+﻿This repository provides a workflow for estimating microplastics mass from size–probability distributions.
 ## To do 
-- [ ] Updata script and instructions for replicating key results.
+- [✔] Updata script and instructions of CFD-based method (conditional fragmentation distribution-based method).
 - [ ] Update full dataset used for analysis.
 - [ ] Update preprocessing and analysis scripts
 - [ ] Update visualization and figure reproduction scripts
